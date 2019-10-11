@@ -23,7 +23,7 @@ Folowing steps are considered for text processing:
 5. Creating the Bag of Words
 6. Tfidf Transformation
 
-Model selection is performed using:
+Model selection:
 1. Multinomial Naive Bayes Classifier
 2. Random Forest Classifier
 3. XGBoost
